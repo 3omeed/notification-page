@@ -33,8 +33,8 @@ I should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Repositry on github](https://github.com/3omeed/notification-page.git)
+- Live Site URL: [live site URL](https://3omeed.github.io/notification-page/)
 
 ## My process
 
